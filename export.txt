@@ -1,0 +1,3 @@
+garima,23,8827383205,raipur,f;
+ruhi,43,2345234321,tilda,f;
+raju,65,7654567657,rawa,m;
